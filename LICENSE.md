@@ -1,4 +1,4 @@
-
+Get the ultimate Alfred for macOS plugin with Alfred for macOS secure Plugin: task automation & markdown support. Featuring task automation and markdown support, it's the best
 
 
 
